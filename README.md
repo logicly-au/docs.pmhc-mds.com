@@ -1,2 +1,1 @@
-# specs
-# docs.pmhc.com
+# docs.pmhc-mds.com

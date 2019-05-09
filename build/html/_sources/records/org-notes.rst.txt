@@ -1,0 +1,5 @@
+Record length = 115
+
+.. rubric:: Notes
+
+.. [#tn_org1] METEoR includes code 9, but that is not applicable to the RMHC NMDS
