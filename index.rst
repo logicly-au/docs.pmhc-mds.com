@@ -18,7 +18,7 @@ collected in the PMHC MDS, what file formats are accepted for upload and associa
 reporting requirements.
 
 As of the 1 July 2019, the PMHC MDS will accept uploads in both the current 1.0
-format and a new 2.0 format. (`read more... <https://pmhc-mds.com/communications/>`__)
+format and a new 2.0 format. (`read more... <https://pmhc-mds.com/2019/06/04/Contunity-of-Support-PMHC-Spec-v2-0/>`__)
 
 * `Version 1 <http://docs.pmhc-mds.com/projects/data-specification/en/v1/>`__
 * `Version 2 <http://docs.pmhc-mds.com/projects/data-specification/en/v2/>`__
