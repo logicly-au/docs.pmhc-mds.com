@@ -17,8 +17,18 @@ The PMHC MDS Data Specification documentation site defines what data items are
 collected in the PMHC MDS, what file formats are accepted for upload and associated
 reporting requirements.
 
-As of the 1 July 2019, the PMHC MDS will accept uploads in both the current 1.0
-format and a new 2.0 format. (`read more... <https://pmhc-mds.com/2019/06/04/Contunity-of-Support-PMHC-Spec-v2-0/>`__)
+As of 1 July 2019, the PMHC MDS will accept uploads in both the current 2.0.0
+format and the old 1.0 format. The old 1.0 format may be deprecated in the future.
+(`read more... <https://pmhc-mds.com/2019/06/04/Contunity-of-Support-PMHC-Spec-v2-0/>`__)
+
+Current Version (As of 1 July 2019)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* `Version 2.0.0 <http://docs.pmhc-mds.com/projects/data-specification/en/v2/>`__
+
+Older still supported versions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Note: These versions may be deprecated in the future**
 
 * `Version 1 <http://docs.pmhc-mds.com/projects/data-specification/en/v1/>`__
-* `Version 2 <http://docs.pmhc-mds.com/projects/data-specification/en/v2/>`__
