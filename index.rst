@@ -4,11 +4,11 @@ PMHC MDS Documentation
 User Documentation
 ------------------
 
-The PMHC MDS online User Documentation site provides MDS users with online guidance
+The PMHC MDS online User Documentation provides MDS users with online guidance
 on how to navigate and use the MDS once they have been granted access and assigned
 user roles at an organisation in the MDS.
 
-https://docs.pmhc-mds.com/projects/user-documentation/
+Go to the `User Documentation </projects/user-documentation/>`__
 
 Data Specifications
 -------------------
@@ -25,10 +25,25 @@ After this date uploads will no longer be accepted in this format.
 Current Version (As of 1 July 2019)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* `Version 2 <http://docs.pmhc-mds.com/projects/data-specification/en/v2/>`__
+* `Version 2 </projects/data-specification/en/v2/>`__
 
 Older still supported versions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* `Version 1 <http://docs.pmhc-mds.com/projects/data-specification/en/v1/>`__
+* `Version 1 </projects/data-specification/en/v1/>`__
   (Will no longer be supported after 30th June 2020)
+
+PMHC MDS Extensions
+-------------------
+
+The PMHC MDS has been extended to allow data collection for specific programs.
+These specifications are only to be used if your organisation is providing services
+under the program.
+
+The Way Back Support Service
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Version (As of 11 May 2020)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Version 3 </projects/data-specification-wayback/en/v3/>`__

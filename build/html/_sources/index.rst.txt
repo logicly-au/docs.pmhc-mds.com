@@ -32,3 +32,18 @@ Older still supported versions
 
 * `Version 1 <http://docs.pmhc-mds.com/projects/data-specification/en/v1/>`__
   (Will no longer be supported after 30th June 2020)
+
+PMHC MDS Extensions
+-------------------
+
+The PMHC MDS has been extended to allow data collection for specific programs.
+These specifications are only to be used if your organisation is providing services
+under the program.
+
+The Way Back Support Service
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Current Version (As of 11 May 2020)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Version 3 <https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/>`__
