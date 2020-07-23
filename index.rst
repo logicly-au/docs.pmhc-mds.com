@@ -27,11 +27,11 @@ Current Version (As of 1 July 2019)
 
 * `Version 2 </projects/data-specification/en/v2/>`__
 
-Older still supported versions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Unsupported versions
+~~~~~~~~~~~~~~~~~~~~
 
 * `Version 1 </projects/data-specification/en/v1/>`__
-  (Will no longer be supported after 30th June 2020)
+  (Not supported as of 1st July 2020)
 
 PMHC MDS Extensions
 -------------------
