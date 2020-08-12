@@ -46,7 +46,7 @@ Headspace
 Current Version (As of 12 August 2020)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* `Version 3 </projects/data-specification-headspace/en/v2/>`__
+* `Version 2 </projects/data-specification-headspace/en/v2/>`__
 
 The Way Back Support Service
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
