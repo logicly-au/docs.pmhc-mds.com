@@ -51,7 +51,7 @@ Current Version (As of 12 August 2020)
 The Way Back Support Service
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Current Version (As of 11 May 2020)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Current Version (As of 17 August 2020)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `Version 3 </projects/data-specification-wayback/en/v3/>`__
