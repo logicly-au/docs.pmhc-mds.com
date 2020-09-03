@@ -50,7 +50,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'PMHC-MDS Documentation'
-copyright = u'2018, Adam Clarke'
+copyright = u'2018, Australian Government - Department of Health'
 author = u'Adam Clarke'
 
 # The version info for the project you're documenting, acts as replacement for
