@@ -55,3 +55,12 @@ Current Version (As of 17 August 2020)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * `Version 3 </projects/data-specification-wayback/en/v3/>`__
+
+Meta Download format
+~~~~~~~~~~~~~~~~~~~~
+
+The Data Extract tab includes a checkbox to include data from all specifications.
+This downloads a file that can be a combination of all the extensions listed above.
+Which extensions are included will depend upon the data for the organisations
+selected for download. The resulting file *cannot* be uploaded. This is a download
+only format.
