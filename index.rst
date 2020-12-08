@@ -56,11 +56,21 @@ Current Version (As of 17 August 2020)
 
 * `Version 3 </projects/data-specification-wayback/en/v3/>`__
 
+National Suicide Prevention Trial (NSPT)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+As of 1st November 2020, this extension is no longer supported.
+
+Unsupported versions
+^^^^^^^^^^^^^^^^^^^^
+
+* Version 2 (Not supported as of 1st November 2020)
+
 Meta Download format
 ~~~~~~~~~~~~~~~~~~~~
 
 The Data Extract tab includes a checkbox to include data from all specifications.
-This downloads a file that can be a combination of all the extensions listed above.
-Which extensions are included will depend upon the data for the organisations
-selected for download. The resulting file *cannot* be uploaded. This is a download
-only format.
+This downloads a file that is a combination of all the extensions listed above.
+The resulting file *cannot* be uploaded. This is a download
+only format. It is based on the most recent version used by either the core
+specification or an extension.
