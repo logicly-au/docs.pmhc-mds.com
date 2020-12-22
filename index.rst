@@ -40,34 +40,30 @@ The PMHC MDS has been extended to allow data collection for specific programs.
 These specifications are only to be used if your organisation is providing services
 under the program.
 
-Headspace
-~~~~~~~~~
+Current Extension Versions
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Current Version (As of 12 August 2020)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
++------------------------------+----------------------------------------------------------------+------------------+
+| Extension                    | Version                                                        | Release date     |
++==============================+================================================================+==================+
+| headspace                    | `Version 2 </projects/data-specification-headspace/en/v2/>`__  | 12 August 2020   |
++------------------------------+----------------------------------------------------------------+------------------+
+| HeadtoHelp                   | `Version 3 </projects/data-specification-headtohelp/en/v3/>`__ | 22 December 2020 |
++------------------------------+----------------------------------------------------------------+------------------+
+| The Way Back Support Service | `Version 3 </projects/data-specification-wayback/en/v3/>`__    | 17 August 2020   |
++------------------------------+----------------------------------------------------------------+------------------+
 
-* `Version 2 </projects/data-specification-headspace/en/v2/>`__
+Unsupported Extension Versions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The Way Back Support Service
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Current Version (As of 17 August 2020)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* `Version 3 </projects/data-specification-wayback/en/v3/>`__
-
-National Suicide Prevention Trial (NSPT)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-As of 1st November 2020, this extension is no longer supported.
-
-Unsupported versions
-^^^^^^^^^^^^^^^^^^^^
-
-* Version 2 (Not supported as of 1st November 2020)
++------------------------------------------+-----------+------------------+
+| Extension                                | Version   | End of life date |
++==========================================+===========+==================+
+| National Suicide Prevention Trial (NSPT) | Version 2 | 1 November 2020  |
++------------------------------------------+-----------+------------------+
 
 Meta Download format
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 The Data Extract tab includes a checkbox to include data from all specifications.
 This downloads a file that is a combination of all the extensions listed above.
