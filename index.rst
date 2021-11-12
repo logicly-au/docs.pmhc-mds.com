@@ -10,8 +10,8 @@ user roles at an organisation in the MDS.
 
 Go to the `User Documentation </projects/user-documentation/>`__
 
-Data Specifications
--------------------
+PMHC MDS Data Specifications
+----------------------------
 
 The PMHC MDS Data Specification documentation site defines what data items are
 collected in the PMHC MDS, what file formats are accepted for upload and associated
@@ -22,26 +22,33 @@ format and the old version 1 format. (`read more... <https://pmhc-mds.com/2019/0
 The old version 1 format has been marked for end-of-life on 30th June 2020.
 After this date uploads will no longer be accepted in this format.
 
-Current Version (As of 1 July 2019)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Current Version
+~~~~~~~~~~~~~~~
 
-* `Version 2 </projects/data-specification/en/v2/>`__
++------------------------------------------------------+--------------+
+| Version                                              | Release date |
++======================================================+==============+
+| `Version 2 </projects/data-specification/en/v2/>`__  | 1 July 2019  |
++------------------------------------------------------+--------------+
 
 Unsupported versions
 ~~~~~~~~~~~~~~~~~~~~
 
-* `Version 1 </projects/data-specification/en/v1/>`__
-  (Not supported as of 1st July 2020)
++------------------------------------------------------+------------------+
+| Version                                              | End of life date |
++======================================================+==================+
+| `Version 1 </projects/data-specification/en/v1/>`__  | 1 July 2020      |
++------------------------------------------------------+------------------+
 
-PMHC MDS Extensions
--------------------
+PMHC MDS Extension Data Specifications
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The PMHC MDS has been extended to allow data collection for specific programs.
 These specifications are only to be used if your organisation is providing services
 under the program.
 
 Current Extension Versions
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+##########################
 
 +------------------------------+----------------------------------------------------------------+------------------+
 | Extension                    | Version                                                        | Release date     |
@@ -54,13 +61,29 @@ Current Extension Versions
 +------------------------------+----------------------------------------------------------------+------------------+
 
 Unsupported Extension Versions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+##############################
 
 +------------------------------------------+-----------+------------------+
 | Extension                                | Version   | End of life date |
 +==========================================+===========+==================+
 | National Suicide Prevention Trial (NSPT) | Version 2 | 1 November 2020  |
 +------------------------------------------+-----------+------------------+
+
+YES Invitation Data Specification
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This data specification is to be used to send invitations to complete a
+YES-PHN survey to clients who have completed an episode of care in the
+PMHC MDS within a specified time period.
+
+Current Version
+###############
+
++---------------------------------------------------------------------+------------------+
+| Version                                                             | Release date     |
++=====================================================================+==================+
+| `Version 1 </projects/data-specification-yes-invitation/en/v1/>`__  | 1 November 2021  |
++---------------------------------------------------------------------+------------------+
 
 Meta Download format
 --------------------
