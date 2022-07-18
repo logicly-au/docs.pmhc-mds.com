@@ -17,11 +17,6 @@ The PMHC MDS Data Specification documentation site defines what data items are
 collected in the PMHC MDS, what file formats are accepted for upload and associated
 reporting requirements.
 
-As of 1 July 2019, the PMHC MDS will accept uploads in both the current version 2
-format and the old version 1 format. (`read more... <https://pmhc-mds.com/2019/06/04/Contunity-of-Support-PMHC-Spec-v2-0/>`__)
-The old version 1 format has been marked for end-of-life on 30th June 2020.
-After this date uploads will no longer be accepted in this format.
-
 Current Version
 ~~~~~~~~~~~~~~~
 
@@ -31,8 +26,28 @@ Current Version
 | `Version 2 </projects/data-specification/en/v2/>`__  | 1 July 2019  |
 +------------------------------------------------------+--------------+
 
+Draft Version
+~~~~~~~~~~~~~
+
+As of 1 August 2022, the PMHC MDS will accept uploads in both the new
+version 4 format and the existing version 2 specification as well as the existing
+extension specifications. The version 2 format will be marked as end-of-life
+on 31 January 2023. After this date version 2 uploads will no longer be accepted.
+
++------------------------------------------------------+---------------+
+| Version                                              | Release date  |
++======================================================+===============+
+| `Version 4 </projects/data-specification/en/v4/>`__  | 1 August 2022 |
++------------------------------------------------------+---------------+
+
+
 Unsupported versions
 ~~~~~~~~~~~~~~~~~~~~
+
+As of 1 July 2019, the PMHC MDS accepted uploads in both the version 2
+format and the version 1 format. (`read more... <https://pmhc-mds.com/2019/06/04/Contunity-of-Support-PMHC-Spec-v2-0/>`__)
+The version 1 format was marked for end-of-life on 30th June 2020.
+After this date version 1 uploads were no longer accepted.
 
 +------------------------------------------------------+------------------+
 | Version                                              | End of life date |
