@@ -26,8 +26,8 @@ Current Version
 | `Version 2 </projects/data-specification/en/v2/>`__  | 1 July 2019  |
 +------------------------------------------------------+--------------+
 
-Draft Version
-~~~~~~~~~~~~~
+Future Version
+~~~~~~~~~~~~~~
 
 As of 1 August 2022, the PMHC MDS will accept uploads in both the new
 version 4 format and the existing version 2 specification as well as the existing
