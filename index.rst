@@ -34,11 +34,11 @@ version 4 format and the existing version 2 specification as well as the existin
 extension specifications. The version 2 format will be marked as end-of-life
 on 31 January 2023. After this date version 2 uploads will no longer be accepted.
 
-+------------------------------------------------------+-------------------------------+
-| Version                                              | Release date                  |
-+======================================================+===============================+
-| `Version 4 </projects/data-specification/en/v4/>`__  | In the week of 1st August 2022|
-+------------------------------------------------------+-------------------------------+
++------------------------------------------------------+------------------+
+| Version                                              | Release date     |
++======================================================+==================+
+| `Version 4 </projects/data-specification/en/v4/>`__  | 15th August 2022 |
++------------------------------------------------------+------------------+
 
 
 Unsupported versions
