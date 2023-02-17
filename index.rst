@@ -20,32 +20,30 @@ reporting requirements.
 Current Version
 ~~~~~~~~~~~~~~~
 
-As of 14 August 2022, the PMHC MDS will accept uploads in both the new
-version 4 format and the existing version 2 specification as well as the existing
-extension specifications. The version 2 format will be marked as end-of-life
-on 31 January 2023. After this date version 2 uploads will no longer be accepted.
++------------------------------------------------------+------------------+
+| Version                                              | Release date     |
++======================================================+==================+
+| `Version 4 </projects/data-specification/en/v4/>`__  | 14 August 2022   |
++------------------------------------------------------+------------------+
 
-+------------------------------------------------------+------------------+------------------+
-| Version                                              | Release date     | End of life date |
-+======================================================+==================+==================+
-| `Version 4 </projects/data-specification/en/v4/>`__  | 14 August 2022   |                  |
-+------------------------------------------------------+------------------+------------------+
-| `Version 2 </projects/data-specification/en/v2/>`__  | 1 July 2019      | 31 January 2023  |
-+------------------------------------------------------+------------------+------------------+
 
 Unsupported versions
 ~~~~~~~~~~~~~~~~~~~~
 
-As of 1 July 2019, the PMHC MDS accepted uploads in both the version 2
-format and the version 1 format. (`read more... <https://pmhc-mds.com/2019/06/04/Contunity-of-Support-PMHC-Spec-v2-0/>`__)
-The version 1 format was marked for end-of-life on 30th June 2020.
-After this date version 1 uploads were no longer accepted.
-
-+-------------------------------------------------------------------------+------------------+
-| Version                                                                 | End of life date |
-+=========================================================================+==================+
-| `Version 1 </projects/data-specification/en/v1/>`__                     | 1 July 2020      |
-+-------------------------------------------------------------------------+------------------+
++------------------------------------------------------+------------------+----------------------------------------------------------------------------+
+| Version                                              | End of life date | Notes                                                                      |
++======================================================+==================+============================================================================+
+| `Version 2 </projects/data-specification/en/v2/>`__  | 31 January 2023  | As of 1 August 2022, the PMHC MDS accepted uploads in both the version 4   |
+|                                                      |                  | format and the version 2 format. The version 2 format was marked for       |
+|                                                      |                  | end-of-life on 5 February 2023. After this date version 2 uploads were     |
+|                                                      |                  | no longer accepted.                                                        |
++------------------------------------------------------+------------------+----------------------------------------------------------------------------+
+| `Version 1 </projects/data-specification/en/v1/>`__  | 1 July 2020      | As of 1 July 2019, the PMHC MDS accepted uploads in both the version 2     |
+|                                                      |                  | format and the version 1 format. (`read more...                            |
+|                                                      |                  | <https://pmhc-mds.com/2019/06/04/Contunity-of-Support-PMHC-Spec-v2-0/>`__) |
+|                                                      |                  | The version 1 format was marked for end-of-life on 30 June 2020.           |
+|                                                      |                  | After this date version 1 uploads were no longer accepted.                 |
++------------------------------------------------------+------------------+----------------------------------------------------------------------------+
 
 PMHC MDS Extension Data Specifications
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -57,24 +55,24 @@ under the program.
 Current Extension Versions
 ##########################
 
-+------------------------------+----------------------------------------------------------------+------------------+------------------+
-| Extension                    | Version                                                        | Release date     | End of life date |
-+==============================+================================================================+==================+==================+
-| headspace                    | `Version 2 </projects/data-specification-headspace/en/v2/>`__  | 12 August 2020   |                  |
-+------------------------------+----------------------------------------------------------------+------------------+------------------+
-| HeadtoHelp                   | `Version 3 </projects/data-specification-headtohelp/en/v3/>`__ | 22 December 2020 | 31 January 2023  |
-+------------------------------+----------------------------------------------------------------+------------------+------------------+
-| The Way Back Support Service | `Version 3 </projects/data-specification-wayback/en/v3/>`__    | 17 August 2020   |                  |
-+------------------------------+----------------------------------------------------------------+------------------+------------------+
++------------------------------+----------------------------------------------------------------+------------------+
+| Extension                    | Version                                                        | Release date     | 
++==============================+================================================================+==================+
+| headspace                    | `Version 2 </projects/data-specification-headspace/en/v2/>`__  | 12 August 2020   |
++------------------------------+----------------------------------------------------------------+------------------+
+| The Way Back Support Service | `Version 3 </projects/data-specification-wayback/en/v3/>`__    | 17 August 2020   |
++------------------------------+----------------------------------------------------------------+------------------+
 
 Unsupported Extension Versions
 ##############################
 
-+-------------------------------------------------------------+-----------+------------------+
-| Extension                                                   | Version   | End of life date |
-+=============================================================+===========+==================+
-| National Suicide Prevention Trial (NSPT)                    | Version 2 | 1 November 2020  |
-+-------------------------------------------------------------+-----------+------------------+
++------------------------------------------------------------------------------------------------------------+------------------+
+| Extension                                 | Version                                                        | End of life date |
++===========================================+================================================================+==================+
+| HeadtoHelp                                | `Version 3 </projects/data-specification-headtohelp/en/v3/>`__ | 31 January 2023  |
++-------------------------------------------+----------------------------------------------------------------+------------------+
+| National Suicide Prevention Trial (NSPT)  | Version 2                                                      | 1 November 2020  |
++-------------------------------------------+----------------------------------------------------------------+------------------+
 
 YES Invitation Data Specification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
