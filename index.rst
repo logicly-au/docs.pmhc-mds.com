@@ -98,3 +98,16 @@ This downloads a file that is a combination of all the extensions listed above.
 The resulting file *cannot* be uploaded. This is a download
 only format. It is based on the most recent version used by either the core
 specification or an extension.
+
+PMHC MDS APIs
+-------------
+
+The following APIs are available to be used in conjuction with the PMHC MDS:
+
++----------------------------------------------+-------------------+---------------------------------------------------------------------------------------------------+
+| API                                          | Release date      | Description                                                                                       |
++==============================================+===================+===================================================================================================+
+| `PMHC MDS API <https://api.pmhc-mds.net>`__  | 15 November 2021  | The PMHC MDS API currently provides a pre-authenticated API for uploading files into the PMHC MDS | 
++----------------------------------------------+-------------------+---------------------------------------------------------------------------------------------------+
+| `OMSSS API <https://api.pmhc-mds.net>`__     | 25 May 2022       | The OMSSS REST API enables Outcome Measure integration into client management systems             |
++----------------------------------------------+-------------------+---------------------------------------------------------------------------------------------------+
