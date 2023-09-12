@@ -1,1 +1,9 @@
 build/*
+.DS_Store
+.perl5
+_doc
+.doctree
+doc/build/
+doc/__pycache__/
+version.txt
+doc/_static/example-files/scratch/
