@@ -166,10 +166,10 @@ more detailed information regarding the PMHC MDS, see the :ref:`data-specificati
 There are two versions of the PMHC MDS Service Provider Quick Reference Guide:
 
 * If you are a service provider, it is recommended that you use the 
-  `PDF version of the PMHC MDS Service Provider Quick Reference Guide <_static/service-provider-quick-reference-guide.pdf>`__` 
+  `PDF version of the PMHC MDS Service Provider Quick Reference Guide <_static/service-provider-quick-reference-guide.pdf>`__ 
   produced by the Department of Health.
 * If you are a Primary Health Network, you can use the 
-  `Word version of the PMHC MDS Service Provider Quick Reference Guide <_static/service-provider-quick-reference-guide-template.docx>`__` 
+  `Word version of the PMHC MDS Service Provider Quick Reference Guide <_static/service-provider-quick-reference-guide-template.docx>`__ 
   to tailor some of the information to your local context.
 
 .. _mailing-list:
