@@ -90,6 +90,21 @@ Current Version
 | `Version 1 </projects/data-specification-yes-invitation/en/v1/>`__  | 1 November 2021  |
 +---------------------------------------------------------------------+------------------+
 
+Survey Specification
+~~~~~~~~~~~~~~~~~~~~
+
+This data specification is to be used to upload YES PHN Survey results to 
+and extract YES PHN Survey results from the PMHC MDS.
+
+Current Version
+###############
+
++---------------------------------------------------------------------+------------------+
+| Version                                                             | Release date     |
++=====================================================================+==================+
+| `Version 1 </projects/data-specification-survey/en/v1/>`__          | 21 March 2024    |
++---------------------------------------------------------------------+------------------+
+
 Meta Download format
 --------------------
 
