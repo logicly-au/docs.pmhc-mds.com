@@ -15,7 +15,7 @@ fi
 #rm -rf records/*
 
 #docker pull docker.sdlocal.net/validator/ddict-scripts
-docker pull stratdat/sphinx:production
+docker pull sphinxdoc/sphinx
 
 #docker run \
 #  -v "$(pwd)":/mnt/workdir \
