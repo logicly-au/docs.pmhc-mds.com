@@ -25,4 +25,4 @@ docker pull sphinxdoc/sphinx
 #      -V 0$SPEC_VERSION \
 #      -D records
 
-docker run -v "$(pwd)":/mnt/workdir stratdat/sphinx:production make $ARG1
+docker run -v "$(pwd)":/mnt/workdir sphinxdoc/sphinx make $ARG1
