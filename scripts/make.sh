@@ -15,7 +15,7 @@ fi
 #rm -rf records/*
 
 #docker pull docker.sdlocal.net/validator/ddict-scripts
-docker pull stratdat/sphinx:production
+docker pull sphinxdoc/sphinx
 
 #docker run \
 #  -v "$(pwd)":/mnt/workdir \
@@ -25,4 +25,4 @@ docker pull stratdat/sphinx:production
 #      -V 0$SPEC_VERSION \
 #      -D records
 
-docker run -v "$(pwd)":/mnt/workdir stratdat/sphinx:production make $ARG1
+docker run -v "$(pwd)":/mnt/workdir sphinxdoc/sphinx make $ARG1
