@@ -47,7 +47,7 @@ YES PHN Survey results from the PMHC MDS.
 +---------------------------------------------------------------------+------------------+
 | Version                                                             | Release date     |
 +=====================================================================+==================+
-| `Version 1 </projects/data-specification-survey/en/v1/>`__          | ?? October 2023  |
+| `Version 1 </projects/data-specification-survey/en/v1/>`__          | 21 March 2024    |
 +---------------------------------------------------------------------+------------------+
 
 YES PHN Invitation Data Specification

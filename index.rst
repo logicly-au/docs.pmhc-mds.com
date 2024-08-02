@@ -27,5 +27,3 @@ assist the different types of users to find resources.
 
 
 Relevant to all users are the :ref:`data-specifications`.
-
-

@@ -13,9 +13,8 @@
 # serve to show the default.
 
 import sys
-import os
 import shlex
-import imp
+from os import environ
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -50,7 +49,11 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'PMHC-MDS Documentation'
+<<<<<<< HEAD
 copyright = u'2023, Australian Government - Department of Health and Aged Care'
+=======
+copyright = u'2024, Australian Government - Department of Health and Aged Care'
+>>>>>>> master
 author = u'Adam Clarke'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -67,7 +70,7 @@ author = u'Adam Clarke'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'English'
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
@@ -116,7 +119,9 @@ html_theme = 'sphinx_rtd_theme'
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#html_theme_options = {}
+html_theme_options = {
+    'analytics_id': 'UA-84023505-2',
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
@@ -141,6 +146,12 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# These paths are either relative to html_static_path
+# or fully qualified paths (eg. https://...)
+#html_css_files = [
+#   'css/custom.css',
+#]
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
@@ -286,7 +297,7 @@ man_pages = [
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
 
-on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+on_rtd = environ.get('READTHEDOCS', None) == 'True'
 if not on_rtd:  # only import and set the theme if we're building docs locally
     import sphinx_rtd_theme
     html_theme = 'sphinx_rtd_theme'
@@ -294,8 +305,3 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 
 numfig = True
 # numfig_secnum_depth = 1
-
-# CSS overides
-def setup(app):
-#   app.add_javascript("custom.js")
-   app.add_stylesheet("custom.css")
