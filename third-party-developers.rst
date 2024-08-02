@@ -14,11 +14,9 @@ with the components of the PMHC MDS, including the Online Measures Self Service 
 Test (Developers) Environment
 -----------------------------
 
-
-
 Third Party Developers can be set up with an account that has access to a test Primary 
 Health Network. Please refer to the 
-`Instances <https://docs.pmhc-mds.com/projects/user-documentation/en/latest/instances.html>`__ section of the User Documentation for more details. 
+`Environments <https://docs.pmhc-mds.com/projects/user-documentation/en/latest/environments.html>`__ section of the User Documentation for more details. 
 
 PMHC MDS Data Specifications
 ----------------------------
