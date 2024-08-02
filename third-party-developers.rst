@@ -11,12 +11,14 @@ with the components of the PMHC MDS, including the Online Measures Self Service 
    :depth: 2
 
 
-Test Upload Environment
------------------------
+Test (Developers) Environment
+-----------------------------
+
+
 
 Third Party Developers can be set up with an account that has access to a test Primary 
-Health Network. Please refer to the documentation in the 
-`Frequently Asked Questions <https://docs.pmhc-mds.com/projects/user-documentation/en/latest/faqs/system/access.html?highlight=developers#third-party-developer-access-faq>`__ for more details. 
+Health Network. Please refer to the 
+`Instances <https://docs.pmhc-mds.com/projects/user-documentation/en/latest/instances.html>`__ section of the User Documentation for more details. 
 
 PMHC MDS Data Specifications
 ----------------------------

@@ -42,7 +42,7 @@ PMHC MDS users.
 Guidance on client consent
 --------------------------
 
-`The guidance on client consent <_static/pmhc-consent-guidance-D16-1362220.pdf>`__ provides suggested wording that PHNs may
+`The guidance on client consent (April 2024) <_static/pmhc-consent-guidance-20240430.pdf>`__ provides suggested wording that PHNs may
 wish to include in client consent forms provided to referrers and
 providers to obtain consent from their clients for anonymised data to be
 supplied to the PHN and the Department of Health for statistical purposes in

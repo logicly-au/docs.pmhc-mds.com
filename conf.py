@@ -49,11 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'PMHC-MDS Documentation'
-<<<<<<< HEAD
-copyright = u'2023, Australian Government - Department of Health and Aged Care'
-=======
 copyright = u'2024, Australian Government - Department of Health and Aged Care'
->>>>>>> master
 author = u'Adam Clarke'
 
 # The version info for the project you're documenting, acts as replacement for
