@@ -18,7 +18,7 @@ PMHC MDS Base Data Specification
 +==========================================================+==================+==================+==============================================================================+
 | `Version 4.1 </projects/data-specification/en/v4.1/>`__  | 1 November 2024  |                  |                                                                              |
 +----------------------------------------------------------+------------------+------------------+------------------------------------------------------------------------------+
-| `Version 4.0 </projects/data-specification/en/v4.0/>`__  | 14 August 2022   | 1 May 2025       | As of 1 November 2024, the PMHC MDS accepted uploads in both the version 4.0 |
+| `Version 4.0 </projects/data-specification/en/v4/>`__    | 14 August 2022   | 1 May 2025       | As of 1 November 2024, the PMHC MDS accepted uploads in both the version 4.0 |
 |                                                          |                  |                  | format and the version 4.1 format. The version 4.1 format is marked for      |
 |                                                          |                  |                  | end-of-life on 1 May 2025. After this date version 4.0 uploads will          |
 |                                                          |                  |                  | no longer accepted.                                                          |
