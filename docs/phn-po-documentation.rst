@@ -137,8 +137,8 @@ The following documents are available via `AMHOCN <https://www.amhocn.org/resour
 
 .. _omsss:
 
-Outcome Measures Self Service System (OMSSS)
---------------------------------------------
+Online Measures Self Service System (OMSSS)
+-------------------------------------------
 
 The `OMSSS <https://docs.omsss.online/>`__ is an online service funded by the Australian Government 
 Department of Health and Aged Care (the department) as part of the Primary Mental Health Care 
