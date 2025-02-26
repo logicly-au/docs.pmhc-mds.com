@@ -53,7 +53,7 @@ SLK Test Data Set
 
 We are providing the following test data to allow developers to test their
 implementation of the SLK specification as defined at
-`https://docs.pmhc-mds.com/projects/data-specification/en/latest/data-model-and-specifications.html#statistical-linkage-key>`_.
+`https://docs.pmhc-mds.com/projects/data-specification/en/latest/data-model-and-specifications.html#statistical-linkage-key <https://docs.pmhc-mds.com/projects/data-specification/en/latest/data-model-and-specifications.html#statistical-linkage-key>`__.
 
 .. _slk-generation-test-data:
 

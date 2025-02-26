@@ -162,7 +162,7 @@ They are normally used for two purposes:
    purposes e.g. Indicating that an episode occurred as a result of the COVID-19 pandemic. (``!covid19``)
 
 Tags field definitions for each record type are available in
-:ref:`record-formats`.
+`Record formats <https://docs.pmhc-mds.com/projects/data-specification/en/latest/data-model-and-specifications.html#record-formats>`__.
 
 .. current-system-tags:
 
@@ -571,7 +571,7 @@ Outcome Measure Standard Deviations will be updated in the second
 half of August each year.
 
 Current version:
-                                                                         2024-pmhc-outcome-measure-standard-deviations.xlsx
+
 `Download PMHC Outcome Measure Standard Deviations 2024 as XLSX <_static/2024-pmhc-outcome-measure-standard-deviations.xlsx>`_.
 
 Previous versions:
