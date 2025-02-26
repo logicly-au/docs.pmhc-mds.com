@@ -33,13 +33,13 @@ PMHC MDS APIs
 
 The following APIs are available to be used in conjuction with the PMHC MDS:
 
-+----------------------------------------------+-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
-| API                                          | Release date      | Description                                                                                                                                             |
-+==============================================+===================+=========================================================================================================================================================+
-| `PMHC MDS API <https://api.pmhc-mds.net>`__  | 15 November 2021  | The PMHC MDS API provides a REST API for integrating bulk client management systems operations with the PMHC MDS. Currently file uploads are supported. | 
-+----------------------------------------------+-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
-| `OMSSS API <https://api.pmhc-mds.net>`__     | 25 May 2022       | The OMSSS REST API enables Outcome Measure integration into client management systems.                                                                  |
-+----------------------------------------------+-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
++------------------------------------------------------+-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| API                                                  | Release date      | Description                                                                                                                                             |
++======================================================+===================+=========================================================================================================================================================+
+| `PMHC MDS API <https://api.pmhc-mds.net>`__          | 15 November 2021  | The PMHC MDS API provides a REST API for integrating bulk client management systems operations with the PMHC MDS. Currently file uploads are supported. | 
++------------------------------------------------------+-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
+| `OMSSS API <https://docs.omsss.online/en/latest/>`__ | 25 May 2022       | The OMSSS REST API enables Outcome Measure integration into client management systems.                                                                  |
++------------------------------------------------------+-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 .. _test-data-sets:
 
@@ -76,10 +76,10 @@ SLK Validation Test Data
 `Download SLK Validation Tests as CSV <_static/pmhc-mds-slk-validation-tests-v1.0.csv>`_.
 
 
-Inital Assessment and Referral Decision Suport Tool (IAR-DST)
--------------------------------------------------------------
+Initial Assessment and Referral Decision Support Tool (IAR-DST)
+---------------------------------------------------------------
 
-The IAR digital decision support tool has been integrated into the existing `OMSSS API <https://api.pmhc-mds.net>`__. More information is available at the 
+The IAR digital decision support tool has been integrated into the existing `OMSSS API <https://docs.omsss.online/en/latest/>`__. More information is available at the 
 `IAR Developer resources page <https://docs.iar-dst.online/en/latest/developers.html>`__ including information about reference implementations.
 
 .. _developers-mailing-list:
