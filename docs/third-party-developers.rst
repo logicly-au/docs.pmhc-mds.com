@@ -41,6 +41,41 @@ The following APIs are available to be used in conjuction with the PMHC MDS:
 | `OMSSS API <https://api.pmhc-mds.net>`__     | 25 May 2022       | The OMSSS REST API enables Outcome Measure integration into client management systems.                                                                  |
 +----------------------------------------------+-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------+
 
+.. _test-data-sets:
+
+Test Data Sets
+--------------
+
+.. _slk-test-data-set:
+
+SLK Test Data Set
+~~~~~~~~~~~~~~~~~
+
+We are providing the following test data to allow developers to test their
+implementation of the SLK specification as defined at
+`https://docs.pmhc-mds.com/projects/data-specification/en/latest/data-model-and-specifications.html#statistical-linkage-key>`_.
+
+.. _slk-generation-test-data:
+
+SLK Generation Test Data
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: Summary of files to upload
+  :file: _static/pmhc-mds-slk-generation-test-data-v1.0.csv
+  :header-rows: 1
+
+`Download SLK Generation Test Data as CSV <_static/pmhc-mds-slk-generation-test-data-v1.0.csv>`_.
+
+SLK Validation Test Data
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table:: Summary of files to upload
+  :file: _static/pmhc-mds-slk-validation-tests-v1.0.csv
+  :header-rows: 1
+
+`Download SLK Validation Tests as CSV <_static/pmhc-mds-slk-validation-tests-v1.0.csv>`_.
+
+
 Inital Assessment and Referral Decision Suport Tool (IAR-DST)
 -------------------------------------------------------------
 
