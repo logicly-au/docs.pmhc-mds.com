@@ -147,73 +147,6 @@ Unsupported versions
 Supplementary Data Documentation
 --------------------------------
 
-.. _reporting_inputs:
-
-Inputs to help replicate system generated reports
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Organisations frequently replicate the system reports at a local level for their
-own auditing purposes.
-
-Some reports, such as the Out series reports, use extra inputs that cannot be
-generated locally.
-
-These inputs are being supplied here to assist organisations who wish to
-replicate the system reports.
-
-.. _standard-deviations:
-
-Outcome Measure Standard Deviations
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Outcome Measure Standard Deviations will be updated in the second
-half of August each year.
-
-Current version:
-
-`Download PMHC Outcome Measure Standard Deviations 2024 as XLSX <_static/2024-pmhc-outcome-measure-standard-deviations.xlsx>`_.
-
-Previous versions:
-
-* `Download PMHC Outcome Measure Standard Deviations 2023 as XLSX <_static/2023-pmhc-outcome-measure-standard-deviations.xlsx>`_.
-* `Download PMHC Outcome Measure Standard Deviations 2022 as XLSX <_static/2022-pmhc-outcome-measure-standard-deviations.xlsx>`_.
-* `Download PMHC Outcome Measure Standard Deviations 2021 as XLSX <_static/2021-pmhc-outcome-measure-standard-deviations.xlsx>`_.
-* `Download PMHC Outcome Measure Standard Deviations 2020 as XLSX <_static/2020-pmhc-outcome-measure-standard-deviations.xlsx>`_.
-
-.. _test-data-sets:
-
-Test Data Sets
-~~~~~~~~~~~~~~
-
-.. _slk-test-data-set:
-
-SLK Test Data Set
-^^^^^^^^^^^^^^^^^
-
-We are providing the following test data to allow developers to test their
-implementation of the SLK specification as defined at
-`https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#client-statistical-linkage-key <https://docs.pmhc-mds.com/data-specification/data-model-and-specifications.html#client-statistical-linkage-key>`_.
-
-.. _slk-generation-test-data:
-
-SLK Generation Test Data
-************************
-
-.. csv-table:: Summary of files to upload
-  :file: _static/pmhc-mds-slk-generation-test-data-v1.0.csv
-  :header-rows: 1
-
-`Download SLK Generation Test Data as CSV <_static/pmhc-mds-slk-generation-test-data-v1.0.csv>`_.
-
-SLK Validation Test Data
-************************
-
-.. csv-table:: Summary of files to upload
-  :file: _static/pmhc-mds-slk-validation-tests-v1.0.csv
-  :header-rows: 1
-
-`Download SLK Validation Tests as CSV <_static/pmhc-mds-slk-validation-tests-v1.0.csv>`_.
-
 .. _system-tags:
 
 System Tags
@@ -244,8 +177,6 @@ The following tags can currently be used in PMHC MDS uploads and data entry:
 | ``!br20``      | Australian Government Mental  | Reserved  | :ref:`Departmental Circular <br20>`                                                         |
 |                | Health Response to Bushfire   |           |                                                                                             |
 +----------------+-------------------------------+-----------+---------------------------------------------------------------------------------------------+
-| ``!headspace`` | headspace                     | Extension | `headspace Version 4 Data Specification </projects/data-specification-headspace/en/v4/>`__  |
-+----------------+-------------------------------+-----------+---------------------------------------------------------------------------------------------+
 | ``!wayback``   | Beyond Blue The Way Back      | Extension | `The Way Back Version 3 Data Specification </projects/data-specification-wayback/en/v3/>`__ |
 +----------------+-------------------------------+-----------+---------------------------------------------------------------------------------------------+
 
@@ -267,6 +198,8 @@ provided for historical reference only.
 | ``!covid19``   | Episode occurred as result of COVID-19 pandemic         | Reserved  | :ref:`Departmental Circular <covid19>`                                                                                                                 |                           |
 +                +---------------------------------------------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
 |                | Australian Government HeadtoHelp hubs                   | Extension | :ref:`Departmental Circular <covid19_hth>`                                                                                                             | 31 January 2023           |
++----------------+---------------------------------------------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
+| ``!headspace`` | headspace                                               | Extension | `headspace Version 4 Data Specification </projects/data-specification-headspace/en/v4/>`__                                                             |                           |
 +----------------+---------------------------------------------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
 | ``!nspt``      | Australian Government National Suicide Prevention Trial | Extension |                                                                                                                                                        | 1 November 2020           |
 +----------------+---------------------------------------------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
@@ -614,4 +547,38 @@ use case supported by the PMHC MDS.
 
 If you have queries about managing data upload processes please contact the
 PMHC MDS helpdesk at support@pmhc-mds.com.
+
+.. _reporting_inputs:
+
+Inputs to help replicate system generated reports
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Organisations frequently replicate the system reports at a local level for their
+own auditing purposes.
+
+Some reports, such as the Out series reports, use extra inputs that cannot be
+generated locally.
+
+These inputs are being supplied here to assist organisations who wish to
+replicate the system reports.
+
+.. _standard-deviations:
+
+Outcome Measure Standard Deviations
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Outcome Measure Standard Deviations will be updated in the second
+half of August each year.
+
+Current version:
+                                                                         2024-pmhc-outcome-measure-standard-deviations.xlsx
+`Download PMHC Outcome Measure Standard Deviations 2024 as XLSX <_static/2024-pmhc-outcome-measure-standard-deviations.xlsx>`_.
+
+Previous versions:
+
+* `Download PMHC Outcome Measure Standard Deviations 2023 as XLSX <_static/2023-pmhc-outcome-measure-standard-deviations.xlsx>`_.
+* `Download PMHC Outcome Measure Standard Deviations 2022 as XLSX <_static/2022-pmhc-outcome-measure-standard-deviations.xlsx>`_.
+* `Download PMHC Outcome Measure Standard Deviations 2021 as XLSX <_static/2021-pmhc-outcome-measure-standard-deviations.xlsx>`_.
+* `Download PMHC Outcome Measure Standard Deviations 2020 as XLSX <_static/2020-pmhc-outcome-measure-standard-deviations.xlsx>`_.
+
 
