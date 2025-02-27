@@ -152,7 +152,7 @@ Supplementary Data Documentation
 System Tags
 ~~~~~~~~~~~
 
-Tags beginning with an exclamation mark (``!``) are reserved for future use by
+Tags beginning with an exclamation mark (``!``) are reserved for future use by DoHAC
 across the whole PMHC MDS. System tags can be used in both upload and data entry.
 They are normally used for two purposes:
 
