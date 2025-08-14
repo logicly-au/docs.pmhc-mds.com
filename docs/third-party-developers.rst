@@ -60,7 +60,7 @@ implementation of the SLK specification as defined at
 SLK Generation Test Data
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. csv-table:: Summary of files to upload
+.. csv-table:: SLK Generation Test Data
   :file: _static/pmhc-mds-slk-generation-test-data-v1.0.csv
   :header-rows: 1
 
@@ -69,7 +69,7 @@ SLK Generation Test Data
 SLK Validation Test Data
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. csv-table:: Summary of files to upload
+.. csv-table:: SLK Validation Test Data
   :file: _static/pmhc-mds-slk-validation-tests-v1.0.csv
   :header-rows: 1
 
