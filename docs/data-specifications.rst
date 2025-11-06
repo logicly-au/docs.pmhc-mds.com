@@ -13,11 +13,13 @@ Current Versions
 PMHC MDS Base Data Specification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-+----------------------------------------------------------+------------------+
-| Version                                                  | Release date     |
-+==========================================================+==================+
-| `Version 4.1 </projects/data-specification/en/v4.1/>`__  | 1 November 2024  | 
-+----------------------------------------------------------+------------------+
++----------------------------------------------------------+------------------+------------------+
+| Version                                                  | Release date     | End of life date |
++==========================================================+==================+==================+
+| `Version 5.0 </projects/data-specification/en/v5.0/>`__  | ?? November 2025 | N/A              |
++----------------------------------------------------------+------------------+------------------+
+| `Version 4.1 </projects/data-specification/en/v4.1/>`__  | 1 November 2024  | ?? May 2026      |
++----------------------------------------------------------+------------------+------------------+
 
 PMHC MDS Extension Data Specifications
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -26,13 +28,13 @@ The PMHC MDS has been extended to allow data collection for specific programs.
 These specifications are only to be used if your organisation is providing services
 under the program.
 
-+------------------------------+--------------------------------------------------------------------+------------------+
-| Extension                    | Version                                                            | Release date     | 
-+==============================+====================================================================+==================+
-| headspace                    | `Version 4.1 </projects/data-specification-headspace/en/v4.1/>`__  | 6 May 2025       |
-+------------------------------+--------------------------------------------------------------------+------------------+
-| The Way Back Support Service | `Version 3 </projects/data-specification-wayback/en/v3/>`__        | 17 August 2020   |
-+------------------------------+--------------------------------------------------------------------+------------------+
++------------------------------+--------------------------------------------------------------------+------------------+------------------+
+| Extension                    | Version                                                            | Release date     | End of life date |
++==============================+====================================================================+==================+==================+
+| headspace                    | `Version 4.1 </projects/data-specification-headspace/en/v4.1/>`__  | 6 May 2025       | N/A              |
++------------------------------+--------------------------------------------------------------------+------------------+------------------+
+| The Way Back Support Service | `Version 3 </projects/data-specification-wayback/en/v3/>`__        | 17 August 2020   | ?? May 2026      |
++------------------------------+--------------------------------------------------------------------+------------------+------------------+
 
 PMHC MDS Survey Data Specification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,6 +132,7 @@ They are used:
 Current versions
 ~~~~~~~~~~~~~~~~
 
+* `PMHC MDS Version 5.0 <https://docs.pmhc-mds.com/projects/data-specification/en/v5.0/_static/pmhcmds-spec-meta.zip>`__
 * `PMHC MDS Version 4.1 <https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/_static/pmhcmds-spec-meta.zip>`__
 * `The Way Back Version 3 extension <https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/_static/wayback-spec-meta.zip>`__
 * `Survey Version 1 <https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/_static/pmhcmds-survey-spec-meta.zip>`__
@@ -172,14 +175,17 @@ Current System Tags
 
 The following tags can currently be used in PMHC MDS uploads and data entry:
 
-+----------------+-------------------------------+-----------+---------------------------------------------------------------------------------------------+
-| Tag            | Name                          | Type      | Further Information                                                                         |
-+================+===============================+===========+=============================================================================================+
-| ``!br20``      | Australian Government Mental  | Reserved  | :ref:`Departmental Circular <br20>`                                                         |
-|                | Health Response to Bushfire   |           |                                                                                             |
-+----------------+-------------------------------+-----------+---------------------------------------------------------------------------------------------+
-| ``!wayback``   | Beyond Blue The Way Back      | Extension | `The Way Back Version 3 Data Specification </projects/data-specification-wayback/en/v3/>`__ |
-+----------------+-------------------------------+-----------+---------------------------------------------------------------------------------------------+
++----------------+-------------------------------+-----------+---------------------------------------------------------------------------------------------+------------------+
+| Tag            | Name                          | Type      | Further Information                                                                         | End of life date |
++================+===============================+===========+=============================================================================================+==================+
+| ``!br20``      | Australian Government Mental  | Reserved  | :ref:`Departmental Circular <br20>`                                                         | N/A              |
+|                | Health Response to Bushfire   |           |                                                                                             |                  |
++----------------+-------------------------------+-----------+---------------------------------------------------------------------------------------------+------------------+
+| ``!wayback``   | Beyond Blue The Way Back      | Extension | `The Way Back Version 3 Data Specification </projects/data-specification-wayback/en/v3/>`__ | ?? May 2026      |
++----------------+-------------------------------+-----------+---------------------------------------------------------------------------------------------+------------------+
+| ``!uaooh``     | Universal Aftercare Out of    | Reserved  | :ref:`Departmental Circular <v5>`                                                           | N/A              |
+|                | Hospital                      |           |                                                                                             |                  |
++----------------+-------------------------------+-----------+---------------------------------------------------------------------------------------------+------------------+
 
 Historical System Tags
 ^^^^^^^^^^^^^^^^^^^^^^

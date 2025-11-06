@@ -86,7 +86,7 @@ for 4-17 year olds developed by Goodman et al in the United Kingdom.
 The SDQ has 25 items divided between 5 scales: emotional symptoms, 
 conduct problems, hyperactivity/inattention, peer relationship problems a
 nd prosocial behaviour. 
-Read a `brief overview of the SDQ <https://www.amhocn.org/__data/assets/pdf_file/0018/700227/Strengths-and-Difficulties-Questionnaire-overview.pdf>`__.
+Read `Strengths and Difficulties Questionnaire (SDQ): Overview and Scoring <https://www.amhocn.org/resources/nocc-measures/strengths-and-difficulties-questionnaire-sdq>`__.
 
  The SDQ measures are copyright protected with copyright held by Robert 
  Goodman of the UK-based Youthinmind organisation (https://youthinmind.com/). 
@@ -115,6 +115,20 @@ are used for the PMHC MDS. They can be downloaded from the links below:
 
 `Scoring the Strengths and Difficulties Questionnaire <_static/sdq/pmhc-scoring-sdq.pdf>`__ provides
 an explanation of how the SDQ is scored.
+
+Suicide Ideation Attributes Scale (SIDAS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`Scoring the SIDAS  <_static/pmhc-scoring-sidas.pdf>`__ provides a copy of the SIDAS and an
+explanation of how it is scored.
+
+The World Health Organization-Five Well-Being Index (WHO-5)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+`The World Health Organization-Five Well-Being Index (WHO-5)  <https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01>`__ provides a copy of the SIDAS and an
+explanation of how it is scored.
+
+
 
 .. _experience-measures:
 
