@@ -146,6 +146,14 @@ Minimum Data Set (PMHC MDS). It allows clients of PHN-commissioned mental health
 complete the standardised measures mandated in the PMHC MDS and have the results reported 
 back to their service providers.
 
+.. _guidance_data_extracts:
+
+Guidance for PHN and provider organisations analysing PMHC MDS data extracts
+----------------------------------------------------------------------------
+
+:ref:`data_extract_guidance` provides guidance for data analysts at PHNs or their provider organisations
+using data that they have extracted from the PMHC MDS.
+
 .. _overview:
 
 Overview of purpose, design, scope and key decision issues
