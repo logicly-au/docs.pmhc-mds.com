@@ -13,11 +13,17 @@ Current Versions
 PMHC MDS Base Data Specification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-+----------------------------------------------------------+------------------+
-| Version                                                  | Release date     |
-+==========================================================+==================+
-| `Version 4.1 </projects/data-specification/en/v4.1/>`__  | 1 November 2024  | 
-+----------------------------------------------------------+------------------+
++---------------------------------------------------------------------+------------------+---------------------------------------------------------------------+
+| Version                                                             | Release date     | Notes                                                               |
++=====================================================================+==================+=====================================================================+
+| `Version 4.1 </projects/data-specification/en/v4.1/>`__             | 1 November 2024  |                                                                     |
++---------------------------------------------------------------------+------------------+---------------------------------------------------------------------+
+| `Version 5.0 </projects/data-specification/en/v5.0/>`__             |                  | This is a draft version of the proposed PMHC MDS 5.0 specification. |
+|                                                                     |                  |                                                                     |
+|                                                                     |                  | The PMHC MDS does not currently support this specification.         |
+|                                                                     |                  |                                                                     |
+|                                                                     |                  | It is being published for information and planning purposes only.   |
++---------------------------------------------------------------------+------------------+---------------------------------------------------------------------+
 
 PMHC MDS Extension Data Specifications
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -172,14 +178,22 @@ Current System Tags
 
 The following tags can currently be used in PMHC MDS uploads and data entry:
 
-+----------------+-------------------------------+-----------+---------------------------------------------------------------------------------------------+
-| Tag            | Name                          | Type      | Further Information                                                                         |
-+================+===============================+===========+=============================================================================================+
-| ``!br20``      | Australian Government Mental  | Reserved  | :ref:`Departmental Circular <br20>`                                                         |
-|                | Health Response to Bushfire   |           |                                                                                             |
-+----------------+-------------------------------+-----------+---------------------------------------------------------------------------------------------+
-| ``!wayback``   | Beyond Blue The Way Back      | Extension | `The Way Back Version 3 Data Specification </projects/data-specification-wayback/en/v3/>`__ |
-+----------------+-------------------------------+-----------+---------------------------------------------------------------------------------------------+
++----------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+
+| Tag            | Name                                | Type      | Further Information                                                                         |
++================+=====================================+===========+=============================================================================================+
+| ``!br20``      | Australian Government Mental        | Reserved  | :ref:`Departmental Circular <br20>`                                                         |
+|                | Health Response to Bushfire         |           |                                                                                             |
++----------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+
+| ``!wayback``   | Beyond Blue The Way Back            | Extension | `The Way Back Version 3 Data Specification </projects/data-specification-wayback/en/v3/>`__ |
++----------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+
+| ``!uaooh``     | Universal Aftercare Out of Hospital | Reserved  | :ref:`Departmental Circular <uaooh>`                                                        |
+|                |                                     |           |                                                                                             |
+|                |                                     |           | This is a planned future tag.                                                               |
+|                |                                     |           |                                                                                             |
+|                |                                     |           | The PMHC MDS does not currently support this system tag.                                    |
+|                |                                     |           |                                                                                             |
+|                |                                     |           | It is being published for information and planning purposes only.                           |
++----------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+
 
 Historical System Tags
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -224,9 +238,9 @@ Mental Health Response to Bushfire Trauma* to deliver services including:
 The PMHC MDS reporting changes are designed to capture this funded service
 activity through the reserved Episode tag ``!br20``.
 
-.. More information is available in the :download:`Primary Mental Health Care
-   Minimum Data Set Circular 2020/01 – January 2020 </_static/PMHCMDS Circular
-   2020-01.pdf>`.
+.. note::
+   More information is available in the :download:`Primary Mental Health Care
+   Minimum Data Set Circular 2020/01 – January 2020 </_static/PMHC-MDS-Circular-2020-01.pdf>`.
 
 .. _br20-funded-PHNS:
 
@@ -359,10 +373,11 @@ Departmental Circulars for Historial Reserved Tags
 !covid19 - Australian Government HeadtoHelp hubs
 ************************************************
 
-**The usage for the !covid19 tag is changing when the Head to Help Version 3
-specification is phased out. The ongoing use for the !covid19 tag is
-documented at** :ref:`covid19` **. The following documentation is being maintained
-for historical purposes.**
+.. warning::
+   The usage for the !covid19 tag changed when the Head to Help Version 3
+   specification was phased out. The ongoing use for the !covid19 tag is
+   documented at :ref:`covid19`. The following documentation is being maintained
+   for historical purposes.
 
 The Australian Government is providing funding to Victorian PHNs to deliver
 services through HeadtoHelp hubs as part of its response to the mental health
@@ -509,6 +524,19 @@ Considerations for applying the !amhc tag in data uploads
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Please refer to :ref:`reserved_tags_upload`
+
+.. _uaooh:
+
+!uaooh - Universal Aftercare Out of Hospital
+********************************************
+
+.. warning::
+   This is a planned future tag.
+   The PMHC MDS does not currently support this system tag.
+   It is being published for information and planning purposes only. 
+
+Information about the use of the ``!uaooh`` was provided in `the Departmental
+Circular from November 19, 2025 <https://pmhc-mds.com/communications/#/2025/11/19/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-Version-5.0-Updates/>`__.
 
 .. _reserved_tags_upload:
 
