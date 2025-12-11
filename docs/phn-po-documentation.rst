@@ -50,8 +50,8 @@ planning and improving mental health services.
 
 .. _iar-dst:
 
-Inital Assessment and Referral Decision Suport Tool (IAR-DST)
--------------------------------------------------------------
+Initial Assessment and Referral Decision Support Tool (IAR-DST)
+---------------------------------------------------------------
 
 With the introduction of the PMHC MDS Version 4 data specifiction, the `IAR-DST <https://docs.iar-dst.online>`__ 
 can now be collected as part of the Intake process.
@@ -402,6 +402,14 @@ Department of Health and Aged Care (the department) as part of the Primary Menta
 Minimum Data Set (PMHC MDS). It allows clients of PHN-commissioned mental health services to 
 complete the standardised measures mandated in the PMHC MDS and have the results reported 
 back to their service providers.
+
+.. _guidance_data_extracts:
+
+Guidance for PHN and provider organisations analysing PMHC MDS data extracts
+----------------------------------------------------------------------------
+
+:ref:`data_extract_guidance` provides guidance for data analysts at PHNs or their provider organisations
+using data that they have extracted from the PMHC MDS.
 
 .. _overview:
 
