@@ -229,9 +229,9 @@ Mental Health Response to Bushfire Trauma* to deliver services including:
 The PMHC MDS reporting changes are designed to capture this funded service
 activity through the reserved Episode tag ``!br20``.
 
-.. More information is available in the :download:`Primary Mental Health Care
-   Minimum Data Set Circular 2020/01 – January 2020 </_static/PMHCMDS Circular
-   2020-01.pdf>`.
+.. note::
+   More information is available in the :download:`Primary Mental Health Care
+   Minimum Data Set Circular 2020/01 – January 2020 </_static/PMHC-MDS-Circular-2020-01.pdf>`.
 
 .. _br20-funded-PHNS:
 
@@ -364,10 +364,11 @@ Departmental Circulars for Historial Reserved Tags
 !covid19 - Australian Government HeadtoHelp hubs
 ************************************************
 
-**The usage for the !covid19 tag is changing when the Head to Help Version 3
-specification is phased out. The ongoing use for the !covid19 tag is
-documented at** :ref:`covid19` **. The following documentation is being maintained
-for historical purposes.**
+.. warning::
+   The usage for the !covid19 tag changed when the Head to Help Version 3
+   specification was phased out. The ongoing use for the !covid19 tag is
+   documented at :ref:`covid19`. The following documentation is being maintained
+   for historical purposes.
 
 The Australian Government is providing funding to Victorian PHNs to deliver
 services through HeadtoHelp hubs as part of its response to the mental health
