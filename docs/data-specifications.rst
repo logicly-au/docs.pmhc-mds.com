@@ -13,17 +13,13 @@ Current Versions
 PMHC MDS Base Data Specification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-+---------------------------------------------------------------------+------------------+---------------------------------------------------------------------+
-| Version                                                             | Release date     | Notes                                                               |
-+=====================================================================+==================+=====================================================================+
-| `Version 4.1 </projects/data-specification/en/v4.1/>`__             | 1 November 2024  |                                                                     |
-+---------------------------------------------------------------------+------------------+---------------------------------------------------------------------+
-| `Version 5.0 </projects/data-specification/en/v5.0/>`__             |                  | This is a draft version of the proposed PMHC MDS 5.0 specification. |
-|                                                                     |                  |                                                                     |
-|                                                                     |                  | The PMHC MDS does not currently support this specification.         |
-|                                                                     |                  |                                                                     |
-|                                                                     |                  | It is being published for information and planning purposes only.   |
-+---------------------------------------------------------------------+------------------+---------------------------------------------------------------------+
++----------------------------------------------------------+------------------+------------------+
+| Version                                                  | Release date     | End of life date |
++==========================================================+==================+==================+
+| `Version 5.0 </projects/data-specification/en/v5.0/>`__  | 18 December 2025 | N/A              |
++----------------------------------------------------------+------------------+------------------+
+| `Version 4.1 </projects/data-specification/en/v4.1/>`__  | 1 November 2024  | 30 June 2026     |
++----------------------------------------------------------+------------------+------------------+
 
 PMHC MDS Extension Data Specifications
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,13 +28,13 @@ The PMHC MDS has been extended to allow data collection for specific programs.
 These specifications are only to be used if your organisation is providing services
 under the program.
 
-+------------------------------+--------------------------------------------------------------------+------------------+
-| Extension                    | Version                                                            | Release date     | 
-+==============================+====================================================================+==================+
-| headspace                    | `Version 4.1 </projects/data-specification-headspace/en/v4.1/>`__  | 6 May 2025       |
-+------------------------------+--------------------------------------------------------------------+------------------+
-| The Way Back Support Service | `Version 3 </projects/data-specification-wayback/en/v3/>`__        | 17 August 2020   |
-+------------------------------+--------------------------------------------------------------------+------------------+
++------------------------------+--------------------------------------------------------------------+------------------+------------------+
+| Extension                    | Version                                                            | Release date     | End of life date |
++==============================+====================================================================+==================+==================+
+| headspace                    | `Version 4.1 </projects/data-specification-headspace/en/v4.1/>`__  | 6 May 2025       | N/A              |
++------------------------------+--------------------------------------------------------------------+------------------+------------------+
+| The Way Back Support Service | `Version 3 </projects/data-specification-wayback/en/v3/>`__        | 17 August 2020   | 30 June 2026     |
++------------------------------+--------------------------------------------------------------------+------------------+------------------+
 
 PMHC MDS Survey Data Specification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -86,9 +82,9 @@ Unsupported versions
 +--------------------------------------------------------+------------------+------------------------------------------------------------------------------+
 | Version                                                | End of life date | Notes                                                                        |
 +========================================================+==================+==============================================================================+
-| `Version 4.0 </projects/data-specification/en/v4/>`__  | 1 May 2025       | As of 1 November 2024, the PMHC MDS accepted uploads in both the version 4.0 |
+| `Version 4.0 </projects/data-specification/en/v4/>`__  | 5 May 2025       | As of 1 November 2024, the PMHC MDS accepted uploads in both the version 4.0 |
 |                                                        |                  | format and the version 4.1 format. The version 4.1 format was marked for     |
-|                                                        |                  | end-of-life on 6 May 2025. After this date version 4.0 uploads wwere         |
+|                                                        |                  | end-of-life on 5 May 2025. After this date version 4.0 uploads wwere         |
 |                                                        |                  | no longer accepted.                                                          |
 +--------------------------------------------------------+------------------+------------------------------------------------------------------------------+
 | `Version 2 </projects/data-specification/en/v2/>`__    | 31 January 2023  | As of 1 August 2022, the PMHC MDS accepted uploads in both the version 4     |
@@ -96,7 +92,7 @@ Unsupported versions
 |                                                        |                  | end-of-life on 5 February 2023. After this date version 2 uploads were       |
 |                                                        |                  | no longer accepted.                                                          |
 +--------------------------------------------------------+------------------+------------------------------------------------------------------------------+
-| `Version 1 </projects/data-specification/en/v1/>`__    | 1 July 2020      | As of 1 July 2019, the PMHC MDS accepted uploads in both the version 2       |
+| `Version 1 </projects/data-specification/en/v1/>`__    | 30 June 2020     | As of 1 July 2019, the PMHC MDS accepted uploads in both the version 2       |
 |                                                        |                  | format and the version 1 format. (`read more...                              |
 |                                                        |                  | <https://pmhc-mds.com/2019/06/04/Contunity-of-Support-PMHC-Spec-v2-0/>`__)   |
 |                                                        |                  | The version 1 format was marked for end-of-life on 30 June 2020.             |
@@ -109,13 +105,13 @@ Unsupported PMHC MDS Extension Data Specifications
 +------------------------------------------------------------------------------------------------------------+------------------+
 | Extension                                 | Version                                                        | End of life date |
 +===========================================+================================================================+==================+
-| headspace                                 | `Version 4 </projects/data-specification-headspace/en/v4/>`__  | 6 May 2025       |
+| headspace                                 | `Version 4 </projects/data-specification-headspace/en/v4/>`__  | 5 May 2025       |
 +-------------------------------------------+----------------------------------------------------------------+------------------+
 | headspace                                 | `Version 2 </projects/data-specification-headspace/en/v2/>`__  | 24 October 2024  |
 +-------------------------------------------+----------------------------------------------------------------+------------------+
 | HeadtoHelp                                | `Version 3 </projects/data-specification-headtohelp/en/v3/>`__ | 31 January 2023  |
 +-------------------------------------------+----------------------------------------------------------------+------------------+
-| National Suicide Prevention Trial (NSPT)  | Version 2                                                      | 1 November 2020  |
+| National Suicide Prevention Trial (NSPT)  | Version 2                                                      | 30 October 2020  |
 +-------------------------------------------+----------------------------------------------------------------+------------------+
 
 .. _download_specification_files:
@@ -136,6 +132,7 @@ They are used:
 Current versions
 ~~~~~~~~~~~~~~~~
 
+* `PMHC MDS Version 5.0 <https://docs.pmhc-mds.com/projects/data-specification/en/v5.0/_static/pmhcmds-spec-meta.zip>`__
 * `PMHC MDS Version 4.1 <https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/_static/pmhcmds-spec-meta.zip>`__
 * `The Way Back Version 3 extension <https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/_static/wayback-spec-meta.zip>`__
 * `Survey Version 1 <https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/_static/pmhcmds-survey-spec-meta.zip>`__
@@ -178,22 +175,16 @@ Current System Tags
 
 The following tags can currently be used in PMHC MDS uploads and data entry:
 
-+----------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+
-| Tag            | Name                                | Type      | Further Information                                                                         |
-+================+=====================================+===========+=============================================================================================+
-| ``!br20``      | Australian Government Mental        | Reserved  | :ref:`Departmental Circular <br20>`                                                         |
-|                | Health Response to Bushfire         |           |                                                                                             |
-+----------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+
-| ``!wayback``   | Beyond Blue The Way Back            | Extension | `The Way Back Version 3 Data Specification </projects/data-specification-wayback/en/v3/>`__ |
-+----------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+
-| ``!uaooh``     | Universal Aftercare Out of Hospital | Reserved  | :ref:`Departmental Circular <uaooh>`                                                        |
-|                |                                     |           |                                                                                             |
-|                |                                     |           | This is a planned future tag.                                                               |
-|                |                                     |           |                                                                                             |
-|                |                                     |           | The PMHC MDS does not currently support this system tag.                                    |
-|                |                                     |           |                                                                                             |
-|                |                                     |           | It is being published for information and planning purposes only.                           |
-+----------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+
++----------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+------------------+
+| Tag            | Name                                | Type      | Further Information                                                                         | Release date     |
++================+=====================================+===========+=============================================================================================+==================+
+| ``!br20``      | Australian Government Mental        | Reserved  | :ref:`Departmental Circular <br20>`                                                         | 24 January 2020  |
+|                | Health Response to Bushfire         |           |                                                                                             |                  |
++----------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+------------------+
+| ``!wayback``   | Beyond Blue The Way Back            | Extension | `The Way Back Version 3 Data Specification </projects/data-specification-wayback/en/v3/>`__ | 17 August 2020   |
++----------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+------------------+
+| ``!uaooh``     | Universal Aftercare Out of Hospital | Reserved  | :ref:`Departmental Circular <uaooh>`                                                        | 18 December 2025 |
++----------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+------------------+
 
 Historical System Tags
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -204,9 +195,9 @@ data uploaded after their retirement date. The following information is
 provided for historical reference only.
 
 +----------------+---------------------------------------------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
-| Tag            | Name                                                    | Type      | Further Information                                                                                                                                    | Retirement Date           |
+| Tag            | Name                                                    | Type      | Further Information                                                                                                                                    | End of life date          |
 +================+=========================================================+===========+========================================================================================================================================================+===========================+
-| ``!amhc``      | Australian Government Adult Mental Health Centre        | Reserved  | :ref:`Departmental Circular <amhc>`                                                                                                                    | Week of 1st August 2022   |
+| ``!amhc``      | Australian Government Adult Mental Health Centre        | Reserved  | :ref:`Departmental Circular <amhc>`                                                                                                                    | 14 August 2022            |
 +----------------+---------------------------------------------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
 | ``!ATAPS``     | ATAPS                                                   | Reserved  | `Must only be used where data was migrated from ATAPS <https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/validation-rules.html#episode>`__ |                           |
 +----------------+---------------------------------------------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
@@ -214,7 +205,7 @@ provided for historical reference only.
 +                +---------------------------------------------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
 |                | Australian Government HeadtoHelp hubs                   | Extension | :ref:`Departmental Circular <covid19_hth>`                                                                                                             | 31 January 2023           |
 +----------------+---------------------------------------------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
-| ``!nspt``      | Australian Government National Suicide Prevention Trial | Extension |                                                                                                                                                        | 1 November 2020           |
+| ``!nspt``      | Australian Government National Suicide Prevention Trial | Extension |                                                                                                                                                        | 30 October 2020           |
 +----------------+---------------------------------------------------------+-----------+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------+
 
 Departmental Circulars for Current Reserved Tags
