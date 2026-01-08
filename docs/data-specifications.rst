@@ -39,11 +39,11 @@ under the program.
 PMHC MDS Survey Data Specification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The PMHC MDS has been extended to allow the YES PHN survey to be collected and stored in the 
-`PMHC MDS via OMSSS <https://docs.pmhc-mds.com/projects/user-documentation/en/latest/tools.html?highlight=YES-PHN#yes-phn-1>`__ 
+The PMHC MDS has been extended to allow the YES PHN survey to be collected and stored in the
+`PMHC MDS via OMSSS <https://docs.pmhc-mds.com/projects/user-documentation/en/latest/tools.html?highlight=YES-PHN#yes-phn-1>`__
 or collected separately and uploaded to the PMHC MDS.
 
-This data specification is to be used to upload YES PHN Survey results to and extract 
+This data specification is to be used to upload YES PHN Survey results to and extract
 YES PHN Survey results from the PMHC MDS.
 
 +---------------------------------------------------------------------+------------------+
@@ -120,7 +120,7 @@ Download Specification files
 ----------------------------
 
 Software developers designing extracts for the PMHC MDS can use the following files to help automate
-their tools when new versions of PMHC MDS specifications are released. 
+their tools when new versions of PMHC MDS specifications are released.
 
 These files conform to the CSV on the Web (CSVW) standard that is defined at `https://csvw.org/ <https://csvw.org/>`__.
 
@@ -160,9 +160,9 @@ Tags beginning with an exclamation mark (``!``) are reserved for future use by D
 across the whole PMHC MDS. System tags can be used in both upload and data entry.
 They are normally used for two purposes:
 
-1. Extension tags - The primary purpose of these tags is to enable a PMHC MDS 
+1. Extension tags - The primary purpose of these tags is to enable a PMHC MDS
    data specification extension e.g. The Wayback (``!wayback``)
-2. Reserved tags - The primary purpose of these tags is to tag data for specific 
+2. Reserved tags - The primary purpose of these tags is to tag data for specific
    purposes e.g. Indicating that an episode occurred as a result of the COVID-19 pandemic. (``!covid19``)
 
 Tags field definitions for each record type are available in
@@ -521,11 +521,6 @@ Please refer to :ref:`reserved_tags_upload`
 !uaooh - Universal Aftercare Out of Hospital
 ********************************************
 
-.. warning::
-   This is a planned future tag.
-   The PMHC MDS does not currently support this system tag.
-   It is being published for information and planning purposes only. 
-
 Information about the use of the ``!uaooh`` was provided in `the Departmental
 Circular from November 19, 2025 <https://pmhc-mds.com/communications/#/2025/11/19/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-Version-5.0-Updates/>`__.
 
@@ -599,5 +594,3 @@ Previous versions:
 * `Download PMHC Outcome Measure Standard Deviations 2022 as XLSX <_static/2022-pmhc-outcome-measure-standard-deviations.xlsx>`_.
 * `Download PMHC Outcome Measure Standard Deviations 2021 as XLSX <_static/2021-pmhc-outcome-measure-standard-deviations.xlsx>`_.
 * `Download PMHC Outcome Measure Standard Deviations 2020 as XLSX <_static/2020-pmhc-outcome-measure-standard-deviations.xlsx>`_.
-
-
