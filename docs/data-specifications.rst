@@ -40,7 +40,7 @@ PMHC MDS Survey Data Specification
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The PMHC MDS has been extended to allow the YES PHN survey to be collected and stored in the
-`PMHC MDS via OMSSS <https://docs.pmhc-mds.com/projects/user-documentation/en/latest/tools.html?highlight=YES-PHN#yes-phn-1>`__
+`PMHC MDS via OMSSS </projects/user-documentation/en/latest/tools.html?highlight=YES-PHN#yes-phn-1>`__
 or collected separately and uploaded to the PMHC MDS.
 
 This data specification is to be used to upload YES PHN Survey results to and extract
