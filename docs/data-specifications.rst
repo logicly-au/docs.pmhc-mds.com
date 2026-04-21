@@ -541,7 +541,7 @@ Overview
 
 This circular provides Primary Health Networks (PHNs) and service providers 
 with information on updates to the Primary Mental Health Care Minimum Data 
-Set (PMHC MDS), scheduled for release as Version 5.0.1 on XX April 2026. 
+Set (PMHC MDS), scheduled for release as Version 5.0.3 on XX April 2026. 
 
 Two new system tags will be introduced to enable Medicare Mental Health 
 Centres (MMHC) to capture information on referrals to the Medicare Mental 
@@ -623,7 +623,7 @@ There are two ways to apply the tag through the PMHC MDS data entry interface:
     * When entering data directly, episodes will need to be tagged with the 
       string ``!rhcpsychology`` and/or ``!rhcpsychiatry`` (as appropriate). 
       The data entry system already allows for the tagging of records and 
-      therefore it is possible to implement this as soon as Version 5.0.1 is
+      therefore it is possible to implement this as soon as Version 5.0.3 is
       released by communicating 
       the instructions to users.
     * The PMHC MDS has been updated to only accept the system tags described 
