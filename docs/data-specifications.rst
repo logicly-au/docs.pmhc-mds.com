@@ -188,9 +188,9 @@ The following tags can currently be used in PMHC MDS uploads and data entry:
 +--------------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+------------------+------------------+
 | ``!uaooh``         | Universal Aftercare Out of Hospital | Reserved  | :ref:`Departmental Circular <uaooh>`                                                        | 18 December 2025 |                  |
 +--------------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+------------------+------------------+
-| ``!rhcpsychology`` | Rural Health Connect - psychology   | Reserved  | :ref:`Departmental Circular <rhcpsychology_and_rhcpsychiatry>`                              | ?? April 2026    |                  |
+| ``!rhcpsychology`` | Rural Health Connect - psychology   | Reserved  | :ref:`Departmental Circular <rhcpsychology_and_rhcpsychiatry>`                              | 4 May 2026       |                  |
 +--------------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+------------------+------------------+
-| ``!rhcpsychiatry`` | Rural Health Connect - psychiatry   | Reserved  | :ref:`Departmental Circular <rhcpsychology_and_rhcpsychiatry>`                              | ?? April 2026    |                  |
+| ``!rhcpsychiatry`` | Rural Health Connect - psychiatry   | Reserved  | :ref:`Departmental Circular <rhcpsychology_and_rhcpsychiatry>`                              | 4 May 2026       |                  |
 +--------------------+-------------------------------------+-----------+---------------------------------------------------------------------------------------------+------------------+------------------+
 
 
