@@ -263,7 +263,7 @@ For up to date information on applying tags in data uploads please refer to :ref
 ********************************************************
 
 Information about the use of the ``!rchpsychology`` and ``!rchpsychiatry`` tags was 
-provided in `the Departmental Circular from April ??, 2026 <https://pmhc-mds.com/communications/#/2026/??/??/FOR-ACTION-Primary-Mental-Health-Care-Minimum-Data-Set-Version-5.0-Updates/>`__.
+provided in `the Departmental Circular from April 30, 2026 <https://pmhc-mds.com/communications/#/2026/04/30/FOR-ACTION-New-MMHC-system-tags-in-the-PMHC-MDS/>`__.
 
 For up to date information on applying tags in data uploads please refer to :ref:`reserved_tags_upload`
 
