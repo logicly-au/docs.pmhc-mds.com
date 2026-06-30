@@ -18,8 +18,6 @@ PMHC MDS Base Data Specification
 +==========================================================+==================+==================+
 | `Version 5.0 </projects/data-specification/en/v5.0/>`__  | 18 December 2025 | N/A              |
 +----------------------------------------------------------+------------------+------------------+
-| `Version 4.1 </projects/data-specification/en/v4.1/>`__  | 1 November 2024  | 30 June 2026     |
-+----------------------------------------------------------+------------------+------------------+
 
 PMHC MDS Extension Data Specifications
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -32,8 +30,6 @@ under the program.
 | Extension                    | Version                                                            | Release date     | End of life date |
 +==============================+====================================================================+==================+==================+
 | headspace                    | `Version 4.1 </projects/data-specification-headspace/en/v4.1/>`__  | 6 May 2025       | N/A              |
-+------------------------------+--------------------------------------------------------------------+------------------+------------------+
-| The Way Back Support Service | `Version 3 </projects/data-specification-wayback/en/v3/>`__        | 17 August 2020   | 30 June 2026     |
 +------------------------------+--------------------------------------------------------------------+------------------+------------------+
 
 PMHC MDS Survey Data Specification
@@ -79,32 +75,39 @@ specification or an extension.
 Unsupported versions
 --------------------
 
-+--------------------------------------------------------+------------------+------------------------------------------------------------------------------+
-| Version                                                | End of life date | Notes                                                                        |
-+========================================================+==================+==============================================================================+
-| `Version 4.0 </projects/data-specification/en/v4/>`__  | 5 May 2025       | As of 1 November 2024, the PMHC MDS accepted uploads in both the version 4.0 |
-|                                                        |                  | format and the version 4.1 format. The version 4.1 format was marked for     |
-|                                                        |                  | end-of-life on 5 May 2025. After this date version 4.0 uploads wwere         |
-|                                                        |                  | no longer accepted.                                                          |
-+--------------------------------------------------------+------------------+------------------------------------------------------------------------------+
-| `Version 2 </projects/data-specification/en/v2/>`__    | 31 January 2023  | As of 1 August 2022, the PMHC MDS accepted uploads in both the version 4     |
-|                                                        |                  | format and the version 2 format. The version 2 format was marked for         |
-|                                                        |                  | end-of-life on 5 February 2023. After this date version 2 uploads were       |
-|                                                        |                  | no longer accepted.                                                          |
-+--------------------------------------------------------+------------------+------------------------------------------------------------------------------+
-| `Version 1 </projects/data-specification/en/v1/>`__    | 30 June 2020     | As of 1 July 2019, the PMHC MDS accepted uploads in both the version 2       |
-|                                                        |                  | format and the version 1 format. (`read more...                              |
-|                                                        |                  | <https://pmhc-mds.com/2019/06/04/Contunity-of-Support-PMHC-Spec-v2-0/>`__)   |
-|                                                        |                  | The version 1 format was marked for end-of-life on 30 June 2020.             |
-|                                                        |                  | After this date version 1 uploads were no longer accepted.                   |
-+--------------------------------------------------------+------------------+------------------------------------------------------------------------------+
++----------------------------------------------------------+------------------+------------------------------------------------------------------------------+
+| Version                                                  | End of life date | Notes                                                                        |
++==========================================================+==================+==============================================================================+
+| `Version 4.1 </projects/data-specification/en/v4.1/>`__  | 1 November 2024  | As of 18 December 2025, the PMHC MDS accepted uploads in both the version 4.1|
+|                                                          |                  | format and the version 5.0 format. The version 4.1 format was marked for     |
+|                                                          |                  | end-of-life on 30 June 2026. After this date version 4.1 uploads wwere       |
+|                                                          |                  | no longer accepted.                                                          |
++----------------------------------------------------------+------------------+------------------------------------------------------------------------------+
+| `Version 4.0 </projects/data-specification/en/v4/>`__    | 5 May 2025       | As of 1 November 2024, the PMHC MDS accepted uploads in both the version 4.0 |
+|                                                          |                  | format and the version 4.1 format. The version 4.0 format was marked for     |
+|                                                          |                  | end-of-life on 5 May 2025. After this date version 4.0 uploads wwere         |
+|                                                          |                  | no longer accepted.                                                          |
++----------------------------------------------------------+------------------+------------------------------------------------------------------------------+
+| `Version 2 </projects/data-specification/en/v2/>`__      | 31 January 2023  | As of 1 August 2022, the PMHC MDS accepted uploads in both the version 4     |
+|                                                          |                  | format and the version 2 format. The version 2 format was marked for         |
+|                                                          |                  | end-of-life on 5 February 2023. After this date version 2 uploads were       |
+|                                                          |                  | no longer accepted.                                                          |
++----------------------------------------------------------+------------------+------------------------------------------------------------------------------+
+| `Version 1 </projects/data-specification/en/v1/>`__      | 30 June 2020     | As of 1 July 2019, the PMHC MDS accepted uploads in both the version 2       |
+|                                                          |                  | format and the version 1 format. (`read more...                              |
+|                                                          |                  | <https://pmhc-mds.com/2019/06/04/Contunity-of-Support-PMHC-Spec-v2-0/>`__)   |
+|                                                          |                  | The version 1 format was marked for end-of-life on 30 June 2020.             |
+|                                                          |                  | After this date version 1 uploads were no longer accepted.                   |
++----------------------------------------------------------+------------------+------------------------------------------------------------------------------+
 
 Unsupported PMHC MDS Extension Data Specifications
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-+------------------------------------------------------------------------------------------------------------+------------------+
++-------------------------------------------+----------------------------------------------------------------+------------------+
 | Extension                                 | Version                                                        | End of life date |
 +===========================================+================================================================+==================+
+| The Way Back Support Service              | `Version 3 </projects/data-specification-wayback/en/v3/>`__    | 30 June 2026     |
++-------------------------------------------+----------------------------------------------------------------+------------------+
 | headspace                                 | `Version 4 </projects/data-specification-headspace/en/v4/>`__  | 5 May 2025       |
 +-------------------------------------------+----------------------------------------------------------------+------------------+
 | headspace                                 | `Version 2 </projects/data-specification-headspace/en/v2/>`__  | 24 October 2024  |
@@ -133,17 +136,17 @@ Current versions
 ~~~~~~~~~~~~~~~~
 
 * `PMHC MDS Version 5.0 <https://docs.pmhc-mds.com/projects/data-specification/en/v5.0/_static/pmhcmds-spec-meta.zip>`__
-* `PMHC MDS Version 4.1 <https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/_static/pmhcmds-spec-meta.zip>`__
-* `The Way Back Version 3 extension <https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/_static/wayback-spec-meta.zip>`__
 * `Survey Version 1 <https://docs.pmhc-mds.com/projects/data-specification-survey/en/v1/_static/pmhcmds-survey-spec-meta.zip>`__
 * `YES PHN Invitation Version 1 <https://docs.pmhc-mds.com/projects/data-specification-yes-invitation/en/v1/_static/pmhcmds-yes-invitation-spec-meta.zip>`__
 
 Unsupported versions
 ~~~~~~~~~~~~~~~~~~~~
 
+* `PMHC MDS Version 4.1 <https://docs.pmhc-mds.com/projects/data-specification/en/v4.1/_static/pmhcmds-spec-meta.zip>`__
 * `PMHC MDS Version 4.0 <https://docs.pmhc-mds.com/projects/data-specification/en/v4/_static/pmhcmds-spec-meta.zip>`__
 * `PMHC MDS Version 2 <https://docs.pmhc-mds.com/projects/data-specification/en/v2/_static/pmhcmds-spec-meta.zip>`__
 * `PMHC MDS Version 1 <https://docs.pmhc-mds.com/projects/data-specification/en/v1/_static/pmhcmds-spec-meta.zip>`__
+* `The Way Back Version 3 extension <https://docs.pmhc-mds.com/projects/data-specification-wayback/en/v3/_static/wayback-spec-meta.zip>`__
 * `HeadtoHelp Hubs Version 3 extension <https://docs.pmhc-mds.com/projects/data-specification-headtohelp/en/v3/_downloads/07d62ec4a06942aa3cdfeb712fa402f9/headtohelp-spec-meta.zip>`__
 
 .. _supplementary_data_documentation:
